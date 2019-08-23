@@ -1,14 +1,14 @@
-# Gameboy Zero 3.5" Dark Theme for EmulationStation
+# Gameboy Zero 3.5" Theme for EmulationStation
 
-[Click here for the original Light Theme](https://github.com/rxbrad/es-theme-gbz35)
+[Click here for alternative Dark version of this theme](https://github.com/rxbrad/es-theme-gbz35-dark)
 
-![System Select Screen](http://i.imgur.com/mDAj9Vs.png) ![Detailed Game List](http://i.imgur.com/bf5fAgd.png) ![Basic Game List](http://i.imgur.com/xnpbati.png) ![Detailed Game List #2](http://i.imgur.com/7lOMjn0.png)
+![System Select Screen](http://i.imgur.com/UsW5xfT.png) ![Detailed Game List](http://i.imgur.com/Ud4IsZW.png) ![Basic Game List](http://i.imgur.com/d9TTEjV.png) ![Detailed Game List #2](http://i.imgur.com/0awaj5E.png)
 
 This theme pulls heavily from the [Carbon](https://github.com/RetroPie/es-theme-carbon) (controller & system vector art), [Spare](https://github.com/mattrixk/es-theme-spare) (preliminary layout), and [SimpleBigArt](https://github.com/robertybob/es-theme-simplebigart) (preliminary background art) themes.  It is optimized for resolutions up to 640x480 on small 4:3 screens (like the 3.5" screens commonly used in Gameboy Zero builds).  It also works on 16:9 screens but you will notice that the background art is stretched when viewing in this aspect.
 
 Changelog
 -----------
-
+- Update 24.08.19: Added PCEngine CD, Turbografx CD and Mega CD
 - Update May 6, 2018: Fix broken Famicom & Super Famicom logos
 - Update Apr 24, 2018: Added Dreamcast
 - Update Feb 26, 2018: Added Famicom, Super Famicom, & TurboGraphx-16 theme; made multiple logo texts white on Dark theme; updated Genesis/MegaDrive & PCEngine/TG16 logos to use official theming process ([see here](https://github.com/retropie/retropie-setup/wiki/Mega-Drive-Genesis) to get the Genesis logo back, and [see here](https://github.com/retropie/retropie-setup/wiki/PC-Engine) to get TG16 logo back)
@@ -80,11 +80,11 @@ After you've rebooted, you should be able to access the themes folder on your RE
 
 ![alt tag](http://i.imgur.com/B3IsFFW.png)
 
-Open the ZIP that you downloaded here, and copy the 'es-theme-gbz35-dark' folder inside that ZIP over to the 'themes' folder on RETROPIE.
+Open the ZIP that you downloaded here, and copy the 'es-theme-gbz35-master' folder inside that ZIP over to the 'themes' folder on RETROPIE.
 
 ![alt tag](http://i.imgur.com/G7YTaMe.png)
 
-The name of the folder you just copied is how it's listed in RetroPie.  Once it's copied over, I like to rename the folder to 'gbz-35-dark', but that's just me.
+The name of the folder you just copied is how it's listed in RetroPie.  Once it's copied over, I like to rename the folder to 'gbz-35', but that's just me.
 
 Restart EmulationStation on your Pi, and you should be able to switch to this theme in the UI Settings.
 
